@@ -1,8 +1,8 @@
-# AD-Comp-Mover Powershell script
-##Motivation
+# AD-Comp-Mover Powershell script#
+##Motivation##
 Powershell script to move a computer object into an OU based on machine name.  To be run as part of an MDT task sequence.
 
-##Example
+##Example##
 Room (OU) Naming
 AB123
 
